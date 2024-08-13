@@ -1,0 +1,22 @@
+#navbar-container{
+  background-image: url(/src/images/keyboard.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#logo{
+  height: 100px;
+  padding: 20px;
+}
+.navlink{
+  padding: 10px 20px;
+  margin: 0 10px;
+  background-color:#270a24;
+color: #D41414;
+}
+.navlink:hover{
+  background-color:#D41414;
+  color: #270a24;
+}
