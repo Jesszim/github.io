@@ -13,10 +13,10 @@
 .navlink{
   padding: 10px 20px;
   margin: 0 10px;
-  background-color:#270a24;
-color: #D41414;
+ background-color:#270a24;
+color: #fff;
 }
 .navlink:hover{
   background-color:#D41414;
-  color: #270a24;
+  color: #fff;
 }
