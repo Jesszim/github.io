@@ -7,15 +7,11 @@
 }
 #mypic{
   width: 50%;
-  padding-left: 150px;
 }
 #title-section{
-  text-align: center;
   padding-right: 200px;
 }
-#myname{
-  text-decoration: underline;
-}
+
 #contact-icons{
   font-size: 40px;
   display: flex;

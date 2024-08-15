@@ -11,7 +11,7 @@ function Title() {
         <img src={computer} alt="me" id="mypic" />
       </div>
       <div id="title-section">
-        <h1 id="myname">Jessica Zimmerman</h1>
+        <h1 className="section-title">Jessica Zimmerman</h1>
         <h2>Web Developer</h2>
         <div id="contact-icons">
           <a href="https://www.linkedin.com/in/jessica-zimmerman-7777b957/" id="linkedinicon" target="_blank"><BiLogoLinkedinSquare/></a>
