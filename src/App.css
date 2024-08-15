@@ -8,7 +8,75 @@ body{
     color: #fff;
 }
 
-/* projects css */
+/*/////////// navbar section /////////////*/
+
+#navbar-container{
+  background-image: url(/src/images/keyboard.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#logo{
+  height: 100px;
+  padding: 20px;
+}
+.navlink{
+  padding: 10px 20px;
+  margin: 0 10px;
+ background-color:#270a24;
+color: #fff;
+}
+.navlink:hover{
+  background-color:#D41414;
+  color: #fff;
+}
+
+/*/////////////// title section/////////////// */
+
+#title-container{
+  display: flex;
+  color: #fff;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 50px 0;
+}
+#mypic{
+  width: 50%;
+}
+#title-section{
+  padding-right: 200px;
+}
+
+#contact-icons{
+  font-size: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+#gmailicon{
+  color: red;
+}
+#linkedinicon{
+  color: dodgerblue;
+}
+/* //////////////About Me Section////////// */
+
+#aboutme{
+  display: flex;
+  align-items: center;
+  color: #fff;
+
+}
+.about-box{
+  margin: 50px;
+  font-weight: 100;
+}
+#about-img{
+  width: 40%;
+}
+
+/* ////////////projects section/////////// */
 #projects-container{
   display: flex;
   justify-content: space-evenly;
