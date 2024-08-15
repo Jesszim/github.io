@@ -1,5 +1,6 @@
 import Navbar from './Components/Navbar';
 import Title from './Components/Title';
+import Projects from './Components/Projects';
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
   <Navbar/>
  <Title/>
+<Projects/>
   </div>
   );
 }
