@@ -2,7 +2,6 @@ import { BiLogoLinkedinSquare } from "react-icons/bi"
 import { VscGithubInverted } from "react-icons/vsc";
 import { TbBrandGmail } from "react-icons/tb";
 import computer from "../images/jessicacomp.png"
-import "./title.css"
 
 function Title() {
   return (
