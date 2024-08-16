@@ -13,9 +13,9 @@ function Title() {
         <h1 className="section-title">Jessica Zimmerman</h1>
         <h2>Web Developer</h2>
         <div id="contact-icons">
-          <a href="https://www.linkedin.com/in/jessica-zimmerman-7777b957/" id="linkedinicon" target="_blank"><BiLogoLinkedinSquare/></a>
-          <a href="https://github.com/Jesszim" target="_blank"><VscGithubInverted/></a>
-          <a href="mailto: jess.zim04@gmail.com" id="gmailicon" target="_blank"><TbBrandGmail/></a>
+          <a href="https://www.linkedin.com/in/jessica-zimmerman-7777b957/" id="linkedinicon" target="_blank"><BiLogoLinkedinSquare /></a>
+          <a href="https://github.com/Jesszim" target="_blank"><VscGithubInverted /></a>
+          <a href="mailto: jess.zim04@gmail.com" id="gmailicon" target="_blank"><TbBrandGmail /></a>
         </div>
       </div>
     </div>

@@ -11,6 +11,6 @@ import redux from './redux.svg'
 import vs from './vscode.svg'
 import github from './github.svg'
 
-export{
-css, git, html, js, json, mongo, node, npm, react, redux, vs, github
+export {
+  css, git, html, js, json, mongo, node, npm, react, redux, vs, github
 }
