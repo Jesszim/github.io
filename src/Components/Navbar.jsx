@@ -10,7 +10,7 @@ function Navbar() {
         <a className="navlink" href="#aboutme">About</a>
         <a className="navlink" href="#projects">Projects</a>
         <a className="navlink" href="#skills">Skills</a>
-        <a className="navlink" href="">Contact</a>
+        <a className="navlink" href="#contact">Contact</a>
       </div>
     </nav>
   )
