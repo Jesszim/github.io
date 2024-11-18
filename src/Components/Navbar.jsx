@@ -1,4 +1,4 @@
-import logo from "../images/logo.png"
+import logo from "../images/logo.png";
 
 function Navbar() {
   return (
@@ -7,13 +7,21 @@ function Navbar() {
         <img src={logo} alt="logo" id="logo" />
       </div>
       <div id="right-nav">
-        <a className="navlink" href="#aboutme">About</a>
-        <a className="navlink" href="#projects">Projects</a>
-        <a className="navlink" href="#skills">Skills</a>
-        <a className="navlink" href="#contact">Contact</a>
+        <a className="navlink" href="#aboutme">
+          About
+        </a>
+        <a className="navlink" href="#projects">
+          Projects
+        </a>
+        <a className="navlink" href="#skills">
+          Skills
+        </a>
+        <a className="navlink" href="#contact">
+          Contact
+        </a>
       </div>
     </nav>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;
